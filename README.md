@@ -26,6 +26,8 @@ and the finally run the examples by
 You can also run individual examples by running the same command from the directory of which ever example you want to run.
 NB for this make sure you have installed examples/common.
 
+This is a test.
+
 ### Recreating the examples
 
 If you are trying to copy the examples somewhere else and modifying them. Consider asking Maven to explicitly list all the dependencies:
